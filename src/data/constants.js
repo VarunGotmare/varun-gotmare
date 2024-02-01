@@ -162,7 +162,7 @@ export const projects = [
     tags: ["Cyber Security", "Networking", "Pentesting"],
     category: "tech events",
     github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
+    webapp: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     
   },
   {
@@ -172,7 +172,7 @@ export const projects = [
     description:
       "Feeling Punny? This is Your Arm-portunity to Shine! Compete with your friends in our ultimate Arm Wrestling event! Arm wrestling is a sport involving two participants. Each places one arm on a surface with their elbows bent and touching the surface, and they grip each other's hand. The goal is to pin the other's arm onto the surface, with the winner's arm over the loser's arm.",
     image:
-      "https://i.ibb.co/ZgYD77f/2.png",
+      "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     tags: [
       "Arm Wrestling",
       "Sports",
@@ -182,7 +182,7 @@ export const projects = [
     ],
     category: "fun events",
     github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
+    webapp: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
   },
   {
     id: 2,
@@ -221,7 +221,7 @@ export const projects = [
     ],
     category: "fun events",
     github: "https://github.com/rishavchanda/Buckoid-Android-App",
-    webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
+    webapp: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
   },
   {
     id: 4,
@@ -234,7 +234,7 @@ export const projects = [
     tags: ["Kahoot", "Quiz", "Fun Event"],
     category: "tech events",
     github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-    webapp: "https://whatsapp-clone-rishav.web.app",
+    webapp: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
   },
    
   
