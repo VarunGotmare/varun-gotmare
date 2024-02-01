@@ -172,7 +172,7 @@ export const projects = [
     description:
       "Feeling Punny? This is Your Arm-portunity to Shine! Compete with your friends in our ultimate Arm Wrestling event! Arm wrestling is a sport involving two participants. Each places one arm on a surface with their elbows bent and touching the surface, and they grip each other's hand. The goal is to pin the other's arm onto the surface, with the winner's arm over the loser's arm.",
     image:
-      "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "https://i.ibb.co/ZgYD77f/2.png",
     tags: [
       "Arm Wrestling",
       "Sports",
