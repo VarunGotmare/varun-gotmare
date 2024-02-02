@@ -3,6 +3,7 @@ export const Bio = {
   roles: [
     "Cybetant Forum",
   ],
+  agenda: "https://drive.google.com/file/d/1f0NFEJNSs7VwhrNWGVqh1HEPq6UBRBq4/view?usp=sharing",
   description:
     "Hackfusion is a tech/fun event organised by Cybetant Forum, a student community of CSE Cyber Security Branch of GHRIETN. The event will be held on 15th and 16th February 2024. The event will be a 2 day event with 5 tech events and 2 fun events.",
   github: "https://github.com/varungotmare",
