@@ -147,7 +147,7 @@ export const MobileMenu = styled.div`
     right: 0;
     width: 100%;
     padding: 12px 40px 24px 40px;
-    background: ${({ theme }) => theme.card_light+99};
+    background: ${({ theme }) => theme.card_light};
     transition: all 0.6s ease-in-out;
     transform: ${({ isOpen }) => (isOpen ? 'translateY(0)' : 'translateY(-100%)')};
     border-radius: 0 0 20px 20px;
@@ -264,7 +264,7 @@ const Navbar = () => {
               setIsOpen(!isOpen)
             }}>Events</MobileLink>
             
-            <GitHubButton style={{padding: '10px 16px',background: `${theme.primary}`, color: 'white',width: 'max-content'}} href={Bio.github} target="_blank">Github Profile</GitHubButton>
+            <GitHubButton style={{padding: '10px 16px',background: `${theme.primary}`, color: 'white',width: 'max-content'}} href={Bio.insta} target="_blank">Instagram Handle</GitHubButton>
           </MobileMenu>
         }
       </NavbarContainer>
