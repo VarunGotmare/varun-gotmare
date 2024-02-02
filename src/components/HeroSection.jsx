@@ -5,7 +5,8 @@ import Typewriter from 'typewriter-effect';
 import { Bio } from '../data/constants';
 import styled from "styled-components";
 import _default from "../themes/default";
-
+import Lottie from 'lottie-react';
+import dev from "../assets/anime.json"
 
 
 export const HeroContainer = styled.div`
@@ -117,6 +118,25 @@ export const Img = styled.img`
     max-width: 280px;
     max-height: 280px;
   }
+`;
+export const Anime = styled.div`
+position: relative;
+width: 100%;
+height: 100%;
+max-width: 500px;
+max-height: 500px;
+border-radius: 50%;
+border: 0px solid ${({ theme }) => theme.primary};
+
+@media (max-width: 768px) {
+  max-width: 400px;
+  max-height: 400px;
+}
+
+@media (max-width: 640px) {
+  max-width: 330px;
+  max-height: 330px;
+}
 `;
 
 
@@ -248,8 +268,11 @@ const HeroSection = () => {
                     </HeroLeftContainer>
 
                     <HeroRightContainer id="Right">
-                        <Img src="https://cdn.discordapp.com/attachments/898444199249190972/1202594103875866674/1.png?ex=65ce0609&is=65bb9109&hm=d075f167eaee44d568af2c3979d9c88b3a49501aacaf2ea050461ac506332ba8&" alt="Hero Image" />
-                        
+                        {/* <Img src="https://cdn.discordapp.com/attachments/898444199249190972/1202594103875866674/1.png?ex=65ce0609&is=65bb9109&hm=d075f167eaee44d568af2c3979d9c88b3a49501aacaf2ea050461ac506332ba8&" alt="Hero Image" /> */}
+                        <Anime>
+                        <Lottie animationData={dev} style={{height: "100%",width: "100%"}}/>
+                        </Anime>
+                       
                     </HeroRightContainer>
                 </HeroInnerContainer>
 
