@@ -6,7 +6,7 @@ import { Bio } from '../data/constants';
 import styled from "styled-components";
 import _default from "../themes/default";
 import Lottie from 'lottie-react';
-import dev from "../assets/anime.json"
+import dev from "../assets/rocket.json"
 
 
 export const HeroContainer = styled.div`
