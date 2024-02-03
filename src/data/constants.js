@@ -217,7 +217,7 @@ export const projects = [
     title: "Obstacle Race",
     date: "15 Feb 2024",
     description:
-      "Leave your comfort zone, find your finish line. <br> Participate in our ultimate Obstacle",
+      "Leave your comfort zone, find your finish line.Participate in our ultimate Obstacle race event!",
     image:
       "https://i.ibb.co/Dr2TzP5/4.png",
     tags: [ 
