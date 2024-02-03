@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 import { darkTheme, lightTheme } from './utils/Themes'
 import Navbar from "./components/Navbar";
 import './App.css';
-import { BrowserRouter as Router } from 'react-router-dom';
+import { Route, BrowserRouter as Router, Routes } from 'react-router-dom';
 import HeroSection from "./components/HeroSection";
 import About from "./components/About";
 
@@ -14,6 +14,7 @@ import Experience from "./components/Experience";
 import Education from "./components/Education";
 import ProjectDetails from "./components/ProjectDetails";
 import styled from "styled-components";
+import Retard from './Retard';
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -37,7 +38,9 @@ const  App = () =>{
       <Router >
         <Navbar />
         <Body>
-          <HeroSection />
+          <Routes>
+            <Route path="/" element={<Wrapper>
+              <HeroSection />
           <Wrapper>
           </Wrapper>
           <Events openModal={openModal} setOpenModal={setOpenModal} />
@@ -51,6 +54,9 @@ const  App = () =>{
           {openModal.state &&
             <ProjectDetails openModal={openModal} setOpenModal={setOpenModal} />
           }
+              </Wrapper>} />
+          <Route path="/retard" element={<Retard />} />
+          </Routes>
         </Body>
       </Router>
     </ThemeProvider>

@@ -3,7 +3,7 @@ export const Bio = {
   roles: [
     "Cybetant Forum",
   ],
-  agenda: "https://drive.google.com/file/d/1f0NFEJNSs7VwhrNWGVqh1HEPq6UBRBq4/view?usp=sharing",
+  agenda: "https://drive.google.com/file/d/1MZBA8KLYGZ8Jwm0IS8FYzcme4jQfQBgm/view?usp=sharing",
   description:
     "Hackfusion is a tech/fun event organised by Cybetant Forum, a student community of CSE Cyber Security Branch of GHRIETN. The event will be held on 15th and 16th February 2024. The event will be a 2 day event with 2 tech events and 3 fun events.",
   github: "https://github.com/varungotmare",
@@ -204,6 +204,12 @@ export const projects = [
         linkedin: "https://www.linkedin.com/in/varun-gotmare-2b7952269/",
         github: "https://github.com/VarunGotmare",
       },
+      {
+        name: "Varun Gotmare",
+        img: "https://avatars.githubusercontent.com/u/64700310?s=400&u=d78fd95a812ddb72d9681bfb7820d98ec70235a8&v=4",
+        linkedin: "https://www.linkedin.com/in/varun-gotmare-2b7952269/",
+        github: "https://github.com/VarunGotmare",
+      },
     ],
   },
   {
@@ -211,7 +217,7 @@ export const projects = [
     title: "Obstacle Race",
     date: "15 Feb 2024",
     description:
-      "Leave your comfort zone, find your finish line. ",
+      "Leave your comfort zone, find your finish line. <br> Participate in our ultimate Obstacle",
     image:
       "https://i.ibb.co/Dr2TzP5/4.png",
     tags: [ 

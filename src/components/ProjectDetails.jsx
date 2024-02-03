@@ -223,6 +223,7 @@ const index = ({ openModal, setOpenModal }) => {
                                     </Member>
                                 ))}
                             </Members>
+                            
                         </>
                     )}
                     <ButtonGroup>

@@ -142,7 +142,7 @@ border: 0px solid ${({ theme }) => theme.primary};
 
 export const Title = styled.div`
 background-image: linear-gradient(
-    to bottom left,
+    to top right ,
     ${({ theme }) => theme.slate[800]},
     ${({ theme }) => theme.violet[500]},
     ${({ theme }) => theme.zinc[400]}

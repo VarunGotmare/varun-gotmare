@@ -116,7 +116,7 @@ const Events = ({openModal,setOpenModal}) => {
       <Wrapper>
         <Title>Upcoming Events</Title>
         <Desc>
-          Here's the whole list of all upcoming events organized under Hackfusion 2.0 including both tech centric events as well as fun games.
+          Here's a list of upcoming events, click on the cards to register or to know more about the event.
         </Desc>
         <ToggleButtonGroup >
           {toggle === 'all' ?
