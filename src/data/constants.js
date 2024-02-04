@@ -164,6 +164,25 @@ export const projects = [
     category: "tech events",
     github: "https://github.com/rishavchanda/Podstream",
     webapp: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    member: [
+      {
+        name: "Vedant Gawande",
+        img: "https://media.licdn.com/dms/image/D5603AQGCLBGztcoAJg/profile-displayphoto-shrink_200_200/0/1697516247129?e=1712793600&v=beta&t=Ma-_19vAbzC6HgTUHS0KDBoiGZfkkr3Opta3NDlna7o",
+        linkedin: "https://www.linkedin.com/in/vedant-gawande-146997280/?originalSubdomain=in",
+        
+      },
+      {
+        name: "Vedant Shinde",
+        img: "https://media.licdn.com/dms/image/D4D03AQG-h5_QAptWXA/profile-displayphoto-shrink_200_200/0/1664173703107?e=1712793600&v=beta&t=grwtteQoAREl7WaJy4UwaBsGeu0D-4Pk12PMfNkfUn8",
+        linkedin: "https://www.linkedin.com/in/vedant-shinde-838bba22a/",
+      },
+      {
+        name: "Deovrat Gedam",
+        img: "",
+        linkedin: "https://www.linkedin.com/in/deovrat-gedam-a3817a259/",
+      }
+      
+    ],
     
   },
   {
@@ -184,6 +203,15 @@ export const projects = [
     category: "fun events",
     github: "https://github.com/rishavchanda/Project-Management-App",
     webapp: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    member: [
+      {
+        name: "Shruti Singh Thakur",
+        img: "https://media.licdn.com/dms/image/D5603AQFWy6GIkWwZsA/profile-displayphoto-shrink_200_200/0/1691421437255?e=1712793600&v=beta&t=7QNZ2wBF4OeiEqVcZyQfhB2W7atrHteFhht3gbHpA2w",
+        linkedin: "https://www.linkedin.com/in/shruti-singh-thakur-375280264/",
+        
+      },
+      
+    ],
   },
   {
     id: 2,
@@ -204,12 +232,7 @@ export const projects = [
         linkedin: "https://www.linkedin.com/in/varun-gotmare-2b7952269/",
         github: "https://github.com/VarunGotmare",
       },
-      {
-        name: "Varun Gotmare",
-        img: "https://avatars.githubusercontent.com/u/64700310?s=400&u=d78fd95a812ddb72d9681bfb7820d98ec70235a8&v=4",
-        linkedin: "https://www.linkedin.com/in/varun-gotmare-2b7952269/",
-        github: "https://github.com/VarunGotmare",
-      },
+      
     ],
   },
   {
@@ -229,6 +252,20 @@ export const projects = [
     category: "fun events",
     github: "https://github.com/rishavchanda/Buckoid-Android-App",
     webapp: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    member: [
+      {
+        name: "Damini Suranshe",
+        img: "https://media.licdn.com/dms/image/D5603AQGVcN_-3BROjQ/profile-displayphoto-shrink_200_200/0/1706970206110?e=1712793600&v=beta&t=8m1hVQ3Rj4GnW51o7S-8qWEgNmUzWsMjnlAf5iIZi-I",
+        linkedin: "https://www.linkedin.com/in/damini-suranshe-435975257",
+        
+      },
+      {
+        name: "Renu Fulzele",
+        linkedin: "https://www.linkedin.com/in/renu-fulzele-49b243287/",
+        img: "https://media.licdn.com/dms/image/D4E03AQFe2BSiWC101w/profile-displayphoto-shrink_800_800/0/1691471535672?e=1712793600&v=beta&t=jhUiFYFrbd6WSXBjvz1LdnDiWkYklrjr0B_MnihmiRQ",
+      }
+      
+    ],
   },
   {
     id: 4,
@@ -242,6 +279,15 @@ export const projects = [
     category: "tech events",
     github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
     webapp: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    member: [
+      {
+        name: "Ayush Pandit",
+        img: "https://media.licdn.com/dms/image/D5603AQF74X7IUsP3aQ/profile-displayphoto-shrink_200_200/0/1706342148567?e=1712793600&v=beta&t=ouy-FuIbGKk0oY0OoUDe-qWzAC3TTjJ-f911TTn8TLE",
+        linkedin: "https://www.linkedin.com/in/ayush-pandit-7a2757271/",
+        
+      },
+      
+    ],
   },
    
   
