@@ -3,7 +3,7 @@ import styled from 'styled-components'
 
 
 const Button = styled.button`
-    display: none;
+    display: block;
     width: 100%;
     padding: 10px;
     background-color: ${({ theme }) => theme.white};
@@ -14,6 +14,9 @@ const Button = styled.button`
     border-radius: 10px;
     cursor: pointer;
     transition: all 0.8s ease-in-out;
+    media only screen and (max-width: 768px){
+        display: block;
+    }
 `
 const Card = styled.div`
     width: 330px;
@@ -33,10 +36,11 @@ const Card = styled.div`
         box-shadow: 0 0 50px 4px rgba(0,0,0,0.6);
         filter: brightness(1.1);
     }
-    &:hover ${Button} {
-        display: block;
-    }
+    
 `
+// &:hover ${Button} {
+    //     display: block;
+    // }
 
 const Image = styled.img`
     width: 100%;
@@ -141,7 +145,7 @@ const ProjectCards = ({project,setOpenModal}) => {
                     <Avatar src={member.img}/>
                 ))}
             </Members>
-            <Button>View Project</Button>
+            <Button>Details</Button>
         </Card>
     )
 }

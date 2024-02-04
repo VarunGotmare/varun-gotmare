@@ -194,8 +194,7 @@ export const projects = [
     image:
       "https://i.ibb.co/ZgYD77f/2.png",
     tags: [
-      "Arm Wrestling",
-      "Sports",
+      
       "Strength",
       "Fitness",
       "Fun Event"
@@ -221,7 +220,7 @@ export const projects = [
       "Need for Speed? We Got What You Crave. Race your way to the top beating all other participants in this lan racing event! This event will be a Need For Speed : Most Wanted 2005 based lan gaming event, each player will be provided with a device connected to the lan.",
     image:
       "https://i.ibb.co/KNNshK4/3.png",
-    tags: ["LAN Gaming", "Racing", "Gaming", "NFS: Most Wanted"],
+    tags: [ "Racing", "Gaming", "NFS: Most Wanted"],
     category: "fun events",
     github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
     webapp: "https://brain-tumor.netlify.app/",
