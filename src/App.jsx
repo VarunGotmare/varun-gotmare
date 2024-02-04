@@ -44,19 +44,15 @@ const  App = () =>{
           <Wrapper>
           </Wrapper>
           <Events openModal={openModal} setOpenModal={setOpenModal} />
-          <Wrapper>
-            
-            
-            
-            
-          </Wrapper>
-          <Footer />
+          
+          
           {openModal.state &&
             <ProjectDetails openModal={openModal} setOpenModal={setOpenModal} />
           }
               </Wrapper>} />
           <Route path="/retard" element={<Retard />} />
           </Routes>
+          <Footer />
         </Body>
       </Router>
     </ThemeProvider>
