@@ -101,7 +101,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Varun Gotmare. All rights reserved.
+          ᓚᘏᗢ Developed by Varun Gotmare.
         </Copyright>
 
       </FooterWrapper>
