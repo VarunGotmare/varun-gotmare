@@ -7,14 +7,13 @@ import { useTheme } from 'styled-components';
 import { Link as LinkR } from 'react-router-dom';
 import styled from 'styled-components';
 import _default from '../themes/default';
+import Logo from './Logo';
 
-
-function Logo(){
-  return(
-    <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48" zoomAndPan="magnify" viewBox="0 0 36 36.000001" height="48" preserveAspectRatio="xMidYMid meet" version="1.0"><defs><g/></defs><g fill="#ffffff" fill-opacity="1"><g transform="translate(8.234338, 14.636398)"><g><path d="M 14.9375 0.21875 L 12.8125 1.546875 L 10.46875 -2.15625 L 8.375 -0.828125 L 10.53125 2.59375 L 8.40625 3.9375 L 6.25 0.515625 L 2 3.1875 L 0.484375 0.765625 L 11.078125 -5.90625 Z M 14.9375 0.21875 "/></g></g></g><g fill="#ffffff" fill-opacity="1"><g transform="translate(27.781751, 22.484522)"><g><path d="M -14.921875 -0.296875 L -12.796875 -1.609375 L -10.484375 2.09375 L -8.375 0.78125 L -10.515625 -2.65625 L -8.390625 -3.984375 L -6.25 -0.546875 L -1.984375 -3.203125 L -0.484375 -0.765625 L -11.109375 5.84375 Z M -14.921875 -0.296875 "/></g></g></g></svg>
-
-  )
-}
+function Slogo() {
+  return (
+    <Logo />
+  );
+};
 
 export const Nav = styled.div`
     background-color: ${({theme}) => theme.card_light};
@@ -238,7 +237,7 @@ const Navbar = () => {
       <NavbarContainer>
         <NavLogo to='/'>
           <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
-            <Logo/> <Span>Hackfusion</Span>
+            <Slogo/> <Span>Hackfusion</Span>
           </a>
         </NavLogo>
         <MobileIcon>
