@@ -5,7 +5,7 @@ export const Bio = {
   ],
   agenda: "https://drive.google.com/file/d/1MZBA8KLYGZ8Jwm0IS8FYzcme4jQfQBgm/view?usp=sharing",
   description:
-    "Hackfusion presents you with a two day long series of events held by the CSE {Cyber Security} Deparemtent of GHRIETN. Event will be held on 15th and 16t of February. The event will be the combination of technical as well as fun events held withing the college premises. ",
+    "Hackfusion presents you with a two day long series of events held by the CSE {Cyber Security} Deparemtent of GHRIETN. Event will be held on 16th and 17t of February. The event will be the combination of technical as well as fun events held withing the college premises. ",
   github: "https://github.com/varungotmare",
   resume:
     "https://drive.google.com/file/d/1f0NFEJNSs7VwhrNWGVqh1HEPq6UBRBq4/view?usp=sharing",
@@ -162,7 +162,7 @@ export const projects = [
       "https://i.ibb.co/QYYyDh6/1.png",
     tags: ["Cyber Security", "Networking", "Pentesting"],
     category: "tech events",
-    github: "https://github.com/rishavchanda/Podstream",
+    github: "",
     webapp: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     member: [
       {
@@ -200,7 +200,7 @@ export const projects = [
       "Fun Event"
     ],
     category: "fun events",
-    github: "https://github.com/rishavchanda/Project-Management-App",
+    github: "",
     webapp: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     member: [
       {
@@ -222,7 +222,7 @@ export const projects = [
       "https://i.ibb.co/KNNshK4/3.png",
     tags: [ "Racing", "Gaming", "NFS: Most Wanted"],
     category: "fun events",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
+    github: "",
     webapp: "https://brain-tumor.netlify.app/",
     member: [
       {
@@ -249,7 +249,7 @@ export const projects = [
       "Hurdle Race"
     ],
     category: "fun events",
-    github: "https://github.com/rishavchanda/Buckoid-Android-App",
+    github: "",
     webapp: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     member: [
       {
@@ -276,7 +276,7 @@ export const projects = [
       "https://i.ibb.co/0V9Ddy3/5.png",
     tags: ["Kahoot", "Quiz", "Fun Event"],
     category: "tech events",
-    github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
+    github: "",
     webapp: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     member: [
       {
