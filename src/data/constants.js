@@ -163,7 +163,7 @@ export const projects = [
     tags: ["Cyber Security", "Networking", "Pentesting"],
     category: "tech events",
     github: "",
-    webapp: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    form: "https://forms.gle/UmSguryB2NYES9iY7",
     price: "40/-",
     member: [
       {
@@ -202,7 +202,7 @@ export const projects = [
     ],
     category: "fun events",
     github: "",
-    webapp: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    form: "https://forms.gle/wwq242Eg7dSJw91c7",
     price: "30/-",
     member: [
       {
@@ -225,7 +225,7 @@ export const projects = [
     tags: [ "Racing", "Gaming", "NFS: Most Wanted"],
     category: "fun events",
     github: "",
-    webapp: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    form: "https://forms.gle/ntRGb3uYFYkcq7DW6",
     price: "30/-",
     member: [
       {
@@ -253,7 +253,7 @@ export const projects = [
     ],
     category: "fun events",
     github: "",
-    webapp: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    form: "https://forms.gle/qTmCc32j666fNu6L8",
     price: "20/-",
     member: [
       {
@@ -281,7 +281,7 @@ export const projects = [
     tags: ["Kahoot", "Quiz", "Fun Event"],
     category: "tech events",
     github: "",
-    webapp: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    form: "https://forms.gle/q2VUzzxiLhW6knN46",
     price: "20/-",
     member: [
       {
@@ -304,7 +304,7 @@ export const projects = [
     tags: ["Photography", "Art", "Fun Event"],
     category: "fun events",
     github: "",
-    webapp: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    form: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     price: "20/-",
     member: [
       {
