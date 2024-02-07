@@ -159,7 +159,7 @@ export const projects = [
     description:
       "Unleash your hacking skills and conquer the challenges in our ultimate Capture The Flag event! Capture the flag is a cybersecurity competition that challenges teams to solve a variety of tasks ranging from a scavenger hunt on the internet, to basic programming exercises, to hacking your way into a server to steal data. The challenges are all set up with the intent of being hacked, making it an excellent, legal way to get hands-on experience.",
     image:
-      "https://i.ibb.co/QYYyDh6/1.png",
+      "https://i.ibb.co/V2QLngD/ctf.png",
     tags: ["Cyber Security", "Networking", "Pentesting"],
     category: "tech events",
     github: "",
@@ -295,12 +295,12 @@ export const projects = [
   },
   {
     id: 5,
-    title: "Photography Event",
+    title: "Photography Contest",
     date: "17 Feb 2024",
     description:
       "",
     image:
-      "https://i.ibb.co/0V9Ddy3/5.png",
+      "https://i.ibb.co/YcrBhqP/photography.png",
     tags: ["Photography", "Art", "Fun Event"],
     category: "fun events",
     github: "",
@@ -331,10 +331,11 @@ export const TimeLineData = [
 
 
 <a href="https://ibb.co/sJ1mM9r"><img src="https://i.ibb.co/0V9Ddy3/5.png" alt="kahoot" border="0"></a>
-<a href="https://ibb.co/SVVFfHK"><img src="https://i.ibb.co/QYYyDh6/1.png" alt="ctf" border="0"></a>
+<a href="https://ibb.co/vZQcy3m"><img src="https://i.ibb.co/V2QLngD/ctf.png" alt="ctf" border="0"></a>
 <a href="https://ibb.co/bv29DD6"><img src="https://i.ibb.co/ZgYD77f/2.png" alt="arm" border="0"></a>
 <a href="https://ibb.co/n331mPd"><img src="https://i.ibb.co/KNNshK4/3.png" alt="nfsmw" border="0"></a>
 <a href="https://ibb.co/7kmLjx2"><img src="https://i.ibb.co/Dr2TzP5/4.png" alt="race" border="0"></a>
+<a href="https://ibb.co/wSvh4xB"><img src="https://i.ibb.co/YcrBhqP/photography.png" alt="photography" border="0"></a>
 
 <a href="https://ibb.co/x3hYbgL"><img src="https://i.ibb.co/Fn6X1Y3/vector-arm-wrestling-competition.jpg" alt="vector-arm-wrestling-competition" border="0"></a>
 */
