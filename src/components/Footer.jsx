@@ -101,7 +101,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          ᓚᘏᗢ Developed by Varun Gotmare.
+          ᓚᘏᗢ Developed by <a href='https://github.com/VarunGotmare' className='text-purple-500 hover:text-purple-700'>Varun Gotmare</a>.
         </Copyright>
 
       </FooterWrapper>
