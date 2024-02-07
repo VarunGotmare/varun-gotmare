@@ -164,6 +164,7 @@ export const projects = [
     category: "tech events",
     github: "",
     webapp: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    price: "40/-",
     member: [
       {
         name: "Vedant Gawande",
@@ -192,7 +193,7 @@ export const projects = [
     description:
       "Feeling Punny? This is Your Arm-portunity to Shine! Compete with your friends in our ultimate Arm Wrestling event! Arm wrestling is a sport involving two participants. Each places one arm on a surface with their elbows bent and touching the surface, and they grip each other's hand. The goal is to pin the other's arm onto the surface, with the winner's arm over the loser's arm.",
     image:
-      "https://i.ibb.co/ZgYD77f/2.png",
+      "https://i.ibb.co/Fn6X1Y3/vector-arm-wrestling-competition.jpg",
     tags: [
       
       "Strength",
@@ -202,6 +203,7 @@ export const projects = [
     category: "fun events",
     github: "",
     webapp: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    price: "30/-",
     member: [
       {
         name: "Shruti Singh Thakur",
@@ -223,7 +225,8 @@ export const projects = [
     tags: [ "Racing", "Gaming", "NFS: Most Wanted"],
     category: "fun events",
     github: "",
-    webapp: "https://brain-tumor.netlify.app/",
+    webapp: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    price: "30/-",
     member: [
       {
         name: "Varun Gotmare",
@@ -251,6 +254,7 @@ export const projects = [
     category: "fun events",
     github: "",
     webapp: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    price: "20/-",
     member: [
       {
         name: "Damini Suranshe",
@@ -278,6 +282,30 @@ export const projects = [
     category: "tech events",
     github: "",
     webapp: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    price: "20/-",
+    member: [
+      {
+        name: "Ayush Pandit",
+        img: "https://media.licdn.com/dms/image/D5603AQF74X7IUsP3aQ/profile-displayphoto-shrink_200_200/0/1706342148567?e=1712793600&v=beta&t=ouy-FuIbGKk0oY0OoUDe-qWzAC3TTjJ-f911TTn8TLE",
+        linkedin: "https://www.linkedin.com/in/ayush-pandit-7a2757271/",
+        
+      },
+      
+    ],
+  },
+  {
+    id: 5,
+    title: "Photography Event",
+    date: "17 Feb 2024",
+    description:
+      "",
+    image:
+      "https://i.ibb.co/0V9Ddy3/5.png",
+    tags: ["Photography", "Art", "Fun Event"],
+    category: "fun events",
+    github: "",
+    webapp: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    price: "20/-",
     member: [
       {
         name: "Ayush Pandit",
@@ -308,5 +336,5 @@ export const TimeLineData = [
 <a href="https://ibb.co/n331mPd"><img src="https://i.ibb.co/KNNshK4/3.png" alt="nfsmw" border="0"></a>
 <a href="https://ibb.co/7kmLjx2"><img src="https://i.ibb.co/Dr2TzP5/4.png" alt="race" border="0"></a>
 
-
+<a href="https://ibb.co/x3hYbgL"><img src="https://i.ibb.co/Fn6X1Y3/vector-arm-wrestling-competition.jpg" alt="vector-arm-wrestling-competition" border="0"></a>
 */
