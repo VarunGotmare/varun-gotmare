@@ -8,7 +8,7 @@ export const Bio = {
     "Hackfusion presents you with a two day long series of events held by the CSE {Cyber Security} Deparemtent of GHRIETN. Event will be held on 16th and 17th of February. The event will be the combination of technical as well as fun events held withing the college premises. ",
   github: "https://github.com/varungotmare",
   resume:
-    "https://drive.google.com/file/d/1f0NFEJNSs7VwhrNWGVqh1HEPq6UBRBq4/view?usp=sharing",
+    "https://drive.google.com/file/d/1C8gMNkUV2_JT_dOeq8qRn7J1qdQPHSm1/view?usp=sharing",
   linkedin: "https://www.linkedin.com/company/cybetant-forum/",
   twitter: "https://twitter.com/varun_gotmare",
   insta: "https://www.instagram.com/cybetant.ghrietn/",
