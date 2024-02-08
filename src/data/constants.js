@@ -164,18 +164,13 @@ export const projects = [
     category: "tech events",
     github: "",
     form: "https://forms.gle/UmSguryB2NYES9iY7",
-    price: "40/-",
+    price: "30/-",
     member: [
       {
         name: "Vedant Gawande",
         img: "https://media.licdn.com/dms/image/D5603AQGCLBGztcoAJg/profile-displayphoto-shrink_200_200/0/1697516247129?e=1712793600&v=beta&t=Ma-_19vAbzC6HgTUHS0KDBoiGZfkkr3Opta3NDlna7o",
         linkedin: "https://www.linkedin.com/in/vedant-gawande-146997280/?originalSubdomain=in",
         
-      },
-      {
-        name: "Vedant Shinde",
-        img: "https://media.licdn.com/dms/image/D4D03AQG-h5_QAptWXA/profile-displayphoto-shrink_200_200/0/1664173703107?e=1712793600&v=beta&t=grwtteQoAREl7WaJy4UwaBsGeu0D-4Pk12PMfNkfUn8",
-        linkedin: "https://www.linkedin.com/in/vedant-shinde-838bba22a/",
       },
       {
         name: "Deovrat Gedam",
@@ -191,7 +186,7 @@ export const projects = [
     title: "Arm Wrestling",
     date: "16 Feb 2024",
     description:
-      "Feeling Punny? This is Your Arm-portunity to Shine! Compete with your friends in our ultimate Arm Wrestling event! Arm wrestling is a sport involving two participants. Each places one arm on a surface with their elbows bent and touching the surface, and they grip each other's hand. The goal is to pin the other's arm onto the surface, with the winner's arm over the loser's arm.",
+      "Compete with your friends in our ultimate Arm Wrestling event! Arm wrestling is a sport involving two participants. Each places one arm on a surface with their elbows bent and touching the surface, and they grip each other's hand. The goal is to pin the other's arm onto the surface, with the winner's arm over the loser's arm.",
     image:
       "https://i.ibb.co/Fn6X1Y3/vector-arm-wrestling-competition.jpg",
     tags: [
@@ -209,6 +204,12 @@ export const projects = [
         name: "Shruti Singh Thakur",
         img: "https://media.licdn.com/dms/image/D5603AQFWy6GIkWwZsA/profile-displayphoto-shrink_200_200/0/1691421437255?e=1712793600&v=beta&t=7QNZ2wBF4OeiEqVcZyQfhB2W7atrHteFhht3gbHpA2w",
         linkedin: "https://www.linkedin.com/in/shruti-singh-thakur-375280264/",
+        
+      },
+      {
+        name: "Shubhrato Badole",
+        img: "",
+        linkedin: "",
         
       },
       
@@ -234,6 +235,12 @@ export const projects = [
         linkedin: "https://www.linkedin.com/in/varun-gotmare-2b7952269/",
         github: "https://github.com/VarunGotmare",
       },
+      {
+        name: "Ayush Dongre",
+        img: "",
+        linkedin: "",
+        github: "",
+      },
       
     ],
   },
@@ -254,7 +261,7 @@ export const projects = [
     category: "fun events",
     github: "",
     form: "https://forms.gle/qTmCc32j666fNu6L8",
-    price: "20/-",
+    price: "30/-",
     member: [
       {
         name: "Damini Suranshe",
@@ -266,6 +273,11 @@ export const projects = [
         name: "Renu Fulzele",
         linkedin: "https://www.linkedin.com/in/renu-fulzele-49b243287/",
         img: "https://media.licdn.com/dms/image/D4E03AQFe2BSiWC101w/profile-displayphoto-shrink_800_800/0/1691471535672?e=1712793600&v=beta&t=jhUiFYFrbd6WSXBjvz1LdnDiWkYklrjr0B_MnihmiRQ",
+      },
+      {
+        name: "Shravani Ambulkar",
+        linkedin: "https://www.linkedin.com/in/shravani-ambulkar-804610273/",
+        img: "https://media.licdn.com/dms/image/D5603AQH00IQ-3Mdo5Q/profile-displayphoto-shrink_200_200/0/1707057293710?e=1712793600&v=beta&t=PyLzBTkurVSJ-slfY4LP49x8Wq00wOnj29-8j5jGPgQ",
       }
       
     ],
@@ -288,6 +300,12 @@ export const projects = [
         name: "Ayush Pandit",
         img: "https://media.licdn.com/dms/image/D5603AQF74X7IUsP3aQ/profile-displayphoto-shrink_200_200/0/1706342148567?e=1712793600&v=beta&t=ouy-FuIbGKk0oY0OoUDe-qWzAC3TTjJ-f911TTn8TLE",
         linkedin: "https://www.linkedin.com/in/ayush-pandit-7a2757271/",
+        
+      },
+      {
+        name: "Sneha Rathore",
+        img: "",
+        linkedin: "",
         
       },
       
