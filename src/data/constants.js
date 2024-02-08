@@ -251,7 +251,7 @@ export const projects = [
     description:
       "Leave your comfort zone, find your finish line.Participate in our ultimate Obstacle race event!",
     image:
-      "https://i.ibb.co/Dr2TzP5/4.png",
+      "https://i.ibb.co/ZMNsKKn/obstacle-race.png",
     tags: [ 
       "Sports",
       "Fitness",
@@ -352,7 +352,7 @@ export const TimeLineData = [
 <a href="https://ibb.co/vZQcy3m"><img src="https://i.ibb.co/V2QLngD/ctf.png" alt="ctf" border="0"></a>
 <a href="https://ibb.co/bv29DD6"><img src="https://i.ibb.co/ZgYD77f/2.png" alt="arm" border="0"></a>
 <a href="https://ibb.co/n331mPd"><img src="https://i.ibb.co/KNNshK4/3.png" alt="nfsmw" border="0"></a>
-<a href="https://ibb.co/7kmLjx2"><img src="https://i.ibb.co/Dr2TzP5/4.png" alt="race" border="0"></a>
+<a href="https://ibb.co/Vq3yDD7"><img src="https://i.ibb.co/ZMNsKKn/obstacle-race.png" alt="obstacle-race" border="0"></a>
 <a href="https://ibb.co/wSvh4xB"><img src="https://i.ibb.co/YcrBhqP/photography.png" alt="photography" border="0"></a>
 
 <a href="https://ibb.co/x3hYbgL"><img src="https://i.ibb.co/Fn6X1Y3/vector-arm-wrestling-competition.jpg" alt="vector-arm-wrestling-competition" border="0"></a>
