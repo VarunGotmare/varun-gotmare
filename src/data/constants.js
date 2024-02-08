@@ -298,19 +298,20 @@ export const projects = [
     title: "Photography Contest",
     date: "17 Feb 2024",
     description:
-      "",
+      "The world is your canvas! Show off your photography skills in our ultimate Photography contest event! The theme of the contest will be announced on the spot. Participants will have to click pictures based on the theme and submit them. The best picture will be the winner.",
     image:
       "https://i.ibb.co/YcrBhqP/photography.png",
     tags: ["Photography", "Art", "Fun Event"],
     category: "fun events",
     github: "",
     form: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+    form: "https://forms.gle/NtGfUYHJSp7f8B6p6",
     price: "20/-",
     member: [
       {
-        name: "Ayush Pandit",
-        img: "https://media.licdn.com/dms/image/D5603AQF74X7IUsP3aQ/profile-displayphoto-shrink_200_200/0/1706342148567?e=1712793600&v=beta&t=ouy-FuIbGKk0oY0OoUDe-qWzAC3TTjJ-f911TTn8TLE",
-        linkedin: "https://www.linkedin.com/in/ayush-pandit-7a2757271/",
+        name: "Siddhanth Sakhare",
+        img: "https://media.licdn.com/dms/image/D5603AQFSzkziMj0iMg/profile-displayphoto-shrink_200_200/0/1706444922907?e=1712793600&v=beta&t=-fAAED-scch5tMk0zWYGfPSQ9EbVytL0CshHo9hXz4I",
+        linkedin: "https://www.linkedin.com/in/siddhanth-kishor-sakhare-159653257/",
         
       },
       
