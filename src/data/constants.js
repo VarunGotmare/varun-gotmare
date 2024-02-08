@@ -304,7 +304,6 @@ export const projects = [
     tags: ["Photography", "Art", "Fun Event"],
     category: "fun events",
     github: "",
-    form: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
     form: "https://forms.gle/NtGfUYHJSp7f8B6p6",
     price: "20/-",
     member: [
