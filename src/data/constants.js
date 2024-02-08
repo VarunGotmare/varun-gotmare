@@ -3,7 +3,7 @@ export const Bio = {
   roles: [
     "Cybetant Forum",
   ],
-  agenda: "https://drive.google.com/file/d/1MZBA8KLYGZ8Jwm0IS8FYzcme4jQfQBgm/view?usp=sharing",
+  agenda: "https://drive.google.com/file/d/1C8gMNkUV2_JT_dOeq8qRn7J1qdQPHSm1/view?usp=sharing",
   description:
     "Hackfusion presents you with a two day long series of events held by the CSE {Cyber Security} Deparemtent of GHRIETN. Event will be held on 16th and 17th of February. The event will be the combination of technical as well as fun events held withing the college premises. ",
   github: "https://github.com/varungotmare",
