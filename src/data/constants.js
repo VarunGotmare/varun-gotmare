@@ -174,7 +174,7 @@ export const projects = [
       },
       {
         name: "Deovrat Gedam",
-        img: "",
+        img: "https://i.ibb.co/Lrrsvgb/deovrat.jpg",
         linkedin: "https://www.linkedin.com/in/deovrat-gedam-a3817a259/",
       }
       
@@ -354,6 +354,6 @@ export const TimeLineData = [
 <a href="https://ibb.co/n331mPd"><img src="https://i.ibb.co/KNNshK4/3.png" alt="nfsmw" border="0"></a>
 <a href="https://ibb.co/Vq3yDD7"><img src="https://i.ibb.co/ZMNsKKn/obstacle-race.png" alt="obstacle-race" border="0"></a>
 <a href="https://ibb.co/wSvh4xB"><img src="https://i.ibb.co/YcrBhqP/photography.png" alt="photography" border="0"></a>
-
+<a href="https://ibb.co/RNNJ76Z"><img src="https://i.ibb.co/Lrrsvgb/deovrat.jpg" alt="deovrat" border="0"></a>
 <a href="https://ibb.co/x3hYbgL"><img src="https://i.ibb.co/Fn6X1Y3/vector-arm-wrestling-competition.jpg" alt="vector-arm-wrestling-competition" border="0"></a>
 */
