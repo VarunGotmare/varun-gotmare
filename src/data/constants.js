@@ -303,9 +303,9 @@ export const projects = [
         
       },
       {
-        name: "Sneha Rathore",
-        img: "",
-        linkedin: "",
+        name: "Himanshu Motharkar",
+        img: "https://media.licdn.com/dms/image/D4D03AQEYc67bMr718A/profile-displayphoto-shrink_200_200/0/1678792348946?e=1713398400&v=beta&t=LgeKhVjKlvEKjxtqZjl_R5ivs-8HFvBiyQAZe9gP73M",
+        linkedin: "https://www.linkedin.com/in/himanshu-m-0a5771245/",
         
       },
       
