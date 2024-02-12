@@ -166,16 +166,17 @@ export const projects = [
     form: "https://forms.gle/UmSguryB2NYES9iY7",
     price: "30/-",
     member: [
-      {
-        name: "Himanshu Motharkar 9370483948",
-        img: "https://media.licdn.com/dms/image/D4D03AQEYc67bMr718A/profile-displayphoto-shrink_200_200/0/1678792348946?e=1713398400&v=beta&t=LgeKhVjKlvEKjxtqZjl_R5ivs-8HFvBiyQAZe9gP73M",
-        linkedin: "https://www.linkedin.com/in/himanshu-m-0a5771245/",
-        
-      },
+      
       {
         name: "Deovrat Gedam 9325394278",
         img: "https://i.ibb.co/Lrrsvgb/deovrat.jpg",
         linkedin: "https://www.linkedin.com/in/deovrat-gedam-a3817a259/",
+      },
+      {
+        name: "Kartik Sahare 9699818645",
+        img: "https://i.ibb.co/wz4sk8b/kartik.jpg",
+        linkedin: "",
+        
       },
       
       
@@ -300,11 +301,12 @@ export const projects = [
         
       },
       {
-        name: "Kartik Sahare 9699818645",
-        img: "https://i.ibb.co/wz4sk8b/kartik.jpg",
-        linkedin: "",
+        name: "Himanshu Motharkar 9370483948",
+        img: "https://media.licdn.com/dms/image/D4D03AQEYc67bMr718A/profile-displayphoto-shrink_200_200/0/1678792348946?e=1713398400&v=beta&t=LgeKhVjKlvEKjxtqZjl_R5ivs-8HFvBiyQAZe9gP73M",
+        linkedin: "https://www.linkedin.com/in/himanshu-m-0a5771245/",
         
       },
+      
       
     ],
   },
