@@ -176,7 +176,8 @@ export const projects = [
         name: "Deovrat Gedam",
         img: "https://i.ibb.co/Lrrsvgb/deovrat.jpg",
         linkedin: "https://www.linkedin.com/in/deovrat-gedam-a3817a259/",
-      }
+      },
+      
       
     ],
     
@@ -207,9 +208,9 @@ export const projects = [
         
       },
       {
-        name: "Shubhrato Badole",
-        img: "",
-        linkedin: "",
+        name: "Shahanawaz Ansari",
+        img: "https://media.licdn.com/dms/image/D4D03AQF0CviHwSZgbw/profile-displayphoto-shrink_200_200/0/1706123891921?e=1713398400&v=beta&t=Xvjhb5gkRoQVVwRiduFnP36biknyuP8boSOsmknOckw",
+        linkedin: "https://www.linkedin.com/in/shahanawaz-ansari-b69815284/",
         
       },
       
