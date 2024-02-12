@@ -146,7 +146,6 @@ const MemberName = styled.div`
     }
 `;
 
-
 const ButtonGroup = styled.div`
     display: flex;
     justify-content: flex-end;

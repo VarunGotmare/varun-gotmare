@@ -157,7 +157,7 @@ export const projects = [
     title: "Capture The Flag",
     date: "15 Feb 2024",
     description:
-      "Unleash your hacking skills and conquer the challenges in our ultimate Capture The Flag event! Capture the flag is a cybersecurity competition that challenges teams to solve a variety of tasks ranging from a scavenger hunt on the internet, to basic programming exercises, to hacking your way into a server to steal data. The challenges are all set up with the intent of being hacked, making it an excellent, legal way to get hands-on experience.",
+      "Unleash your hacking skills and conquer the challenges in our ultimate Capture The Flag event! Capture the flag is a cybersecurity competition that challenges teams to solve a variety of tasks ranging from a scavenger hunt on the internet, to basic programming exercises, to hacking your way into a server to steal data.",
     image:
       "https://i.ibb.co/V2QLngD/ctf.png",
     tags: ["Cyber Security", "Networking", "Pentesting"],
@@ -167,13 +167,13 @@ export const projects = [
     price: "30/-",
     member: [
       {
-        name: "Vedant Gawande",
-        img: "https://media.licdn.com/dms/image/D5603AQGCLBGztcoAJg/profile-displayphoto-shrink_200_200/0/1697516247129?e=1712793600&v=beta&t=Ma-_19vAbzC6HgTUHS0KDBoiGZfkkr3Opta3NDlna7o",
-        linkedin: "https://www.linkedin.com/in/vedant-gawande-146997280/?originalSubdomain=in",
+        name: "Himanshu Motharkar 9370483948",
+        img: "https://media.licdn.com/dms/image/D4D03AQEYc67bMr718A/profile-displayphoto-shrink_200_200/0/1678792348946?e=1713398400&v=beta&t=LgeKhVjKlvEKjxtqZjl_R5ivs-8HFvBiyQAZe9gP73M",
+        linkedin: "https://www.linkedin.com/in/himanshu-m-0a5771245/",
         
       },
       {
-        name: "Deovrat Gedam",
+        name: "Deovrat Gedam 9325394278",
         img: "https://i.ibb.co/Lrrsvgb/deovrat.jpg",
         linkedin: "https://www.linkedin.com/in/deovrat-gedam-a3817a259/",
       },
@@ -187,7 +187,7 @@ export const projects = [
     title: "Arm Wrestling",
     date: "16 Feb 2024",
     description:
-      "Compete with your friends in our ultimate Arm Wrestling event! Arm wrestling is a sport involving two participants. Each places one arm on a surface with their elbows bent and touching the surface, and they grip each other's hand. The goal is to pin the other's arm onto the surface, with the winner's arm over the loser's arm.",
+      "Compete with your friends in our ultimate Arm Wrestling event! Each player places one arm on a surface with their elbows bent and touching the surface, and they grip each other's hand. The goal is to pin the other's arm onto the surface, with the winner's arm over the loser's arm.",
     image:
       "https://i.ibb.co/Fn6X1Y3/vector-arm-wrestling-competition.jpg",
     tags: [
@@ -202,13 +202,13 @@ export const projects = [
     price: "30/-",
     member: [
       {
-        name: "Shruti Singh Thakur",
+        name: "Shruti Singh Thakur 9699787262",
         img: "https://media.licdn.com/dms/image/D5603AQFWy6GIkWwZsA/profile-displayphoto-shrink_200_200/0/1691421437255?e=1712793600&v=beta&t=7QNZ2wBF4OeiEqVcZyQfhB2W7atrHteFhht3gbHpA2w",
         linkedin: "https://www.linkedin.com/in/shruti-singh-thakur-375280264/",
         
       },
       {
-        name: "Shahanawaz Ansari",
+        name: "Shahanawaz Ansari 9730097896",
         img: "https://media.licdn.com/dms/image/D4D03AQF0CviHwSZgbw/profile-displayphoto-shrink_200_200/0/1706123891921?e=1713398400&v=beta&t=Xvjhb5gkRoQVVwRiduFnP36biknyuP8boSOsmknOckw",
         linkedin: "https://www.linkedin.com/in/shahanawaz-ansari-b69815284/",
         
@@ -231,17 +231,12 @@ export const projects = [
     price: "30/-",
     member: [
       {
-        name: "Varun Gotmare",
+        name: "Varun Gotmare 7888008363",
         img: "https://avatars.githubusercontent.com/u/64700310?s=400&u=d78fd95a812ddb72d9681bfb7820d98ec70235a8&v=4",
         linkedin: "https://www.linkedin.com/in/varun-gotmare-2b7952269/",
         github: "https://github.com/VarunGotmare",
       },
-      {
-        name: "Ayush Dongre",
-        img: "",
-        linkedin: "",
-        github: "",
-      },
+      
       
     ],
   },
@@ -265,21 +260,17 @@ export const projects = [
     price: "30/-",
     member: [
       {
-        name: "Damini Suranshe",
+        name: "Damini Suranshe 7620340274",
         img: "https://media.licdn.com/dms/image/D5603AQGVcN_-3BROjQ/profile-displayphoto-shrink_200_200/0/1706970206110?e=1712793600&v=beta&t=8m1hVQ3Rj4GnW51o7S-8qWEgNmUzWsMjnlAf5iIZi-I",
         linkedin: "https://www.linkedin.com/in/damini-suranshe-435975257",
         
       },
       {
-        name: "Renu Fulzele",
+        name: "Renu Fulzele 7972037279",
         linkedin: "https://www.linkedin.com/in/renu-fulzele-49b243287/",
         img: "https://media.licdn.com/dms/image/D4E03AQFe2BSiWC101w/profile-displayphoto-shrink_800_800/0/1691471535672?e=1712793600&v=beta&t=jhUiFYFrbd6WSXBjvz1LdnDiWkYklrjr0B_MnihmiRQ",
       },
-      {
-        name: "Shravani Ambulkar",
-        linkedin: "https://www.linkedin.com/in/shravani-ambulkar-804610273/",
-        img: "https://media.licdn.com/dms/image/D5603AQH00IQ-3Mdo5Q/profile-displayphoto-shrink_200_200/0/1707057293710?e=1712793600&v=beta&t=PyLzBTkurVSJ-slfY4LP49x8Wq00wOnj29-8j5jGPgQ",
-      }
+      
       
     ],
   },
@@ -298,13 +289,13 @@ export const projects = [
     price: "20/-",
     member: [
       {
-        name: "Ayush Pandit",
+        name: "Ayush Pandit 7770084308",
         img: "https://media.licdn.com/dms/image/D5603AQF74X7IUsP3aQ/profile-displayphoto-shrink_200_200/0/1706342148567?e=1712793600&v=beta&t=ouy-FuIbGKk0oY0OoUDe-qWzAC3TTjJ-f911TTn8TLE",
         linkedin: "https://www.linkedin.com/in/ayush-pandit-7a2757271/",
         
       },
       {
-        name: "Himanshu Motharkar",
+        name: "Kartik Sahare 9699818645",
         img: "https://media.licdn.com/dms/image/D4D03AQEYc67bMr718A/profile-displayphoto-shrink_200_200/0/1678792348946?e=1713398400&v=beta&t=LgeKhVjKlvEKjxtqZjl_R5ivs-8HFvBiyQAZe9gP73M",
         linkedin: "https://www.linkedin.com/in/himanshu-m-0a5771245/",
         
@@ -327,7 +318,7 @@ export const projects = [
     price: "20/-",
     member: [
       {
-        name: "Siddhanth Sakhare",
+        name: "Siddhanth Sakhare:  86988 37265",
         img: "https://media.licdn.com/dms/image/D5603AQFSzkziMj0iMg/profile-displayphoto-shrink_200_200/0/1706444922907?e=1712793600&v=beta&t=-fAAED-scch5tMk0zWYGfPSQ9EbVytL0CshHo9hXz4I",
         linkedin: "https://www.linkedin.com/in/siddhanth-kishor-sakhare-159653257/",
         
