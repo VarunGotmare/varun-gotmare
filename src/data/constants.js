@@ -301,6 +301,12 @@ export const projects = [
       },
       {
         name: "Kartik Sahare 9699818645",
+        img: "https://i.ibb.co/wz4sk8b/kartik.jpg",
+        linkedin: "",
+        
+      },
+      {
+        name: "Kartik Sahare 9699818645",
         img: "https://media.licdn.com/dms/image/D4D03AQEYc67bMr718A/profile-displayphoto-shrink_200_200/0/1678792348946?e=1713398400&v=beta&t=LgeKhVjKlvEKjxtqZjl_R5ivs-8HFvBiyQAZe9gP73M",
         linkedin: "https://www.linkedin.com/in/himanshu-m-0a5771245/",
         
@@ -328,6 +334,12 @@ export const projects = [
         linkedin: "https://www.linkedin.com/in/siddhanth-kishor-sakhare-159653257/",
         
       },
+      {
+        name: "Shreyash Khode 9421300545",
+        img: "https://i.ibb.co/30ssY6C/shreyash.jpg",
+        
+        
+      },
       
     ],
   },
@@ -353,5 +365,7 @@ export const TimeLineData = [
 <a href="https://ibb.co/wSvh4xB"><img src="https://i.ibb.co/YcrBhqP/photography.png" alt="photography" border="0"></a>
 <a href="https://ibb.co/RNNJ76Z"><img src="https://i.ibb.co/Lrrsvgb/deovrat.jpg" alt="deovrat" border="0"></a>
 <a href="https://ibb.co/zrpQvks"><img src="https://i.ibb.co/W6ZGJTn/Whats-App-Image-2024-02-12-at-20-03-17-c1df76af.jpg" alt="ayush" border="0"></a>
+<a href="https://ibb.co/sVqHfcD"><img src="https://i.ibb.co/wz4sk8b/kartik.jpg" alt="kartik" border="0"></a>
+<a href="https://ibb.co/19nnJym"><img src="https://i.ibb.co/30ssY6C/shreyash.jpg" alt="shreyash" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>html to image api</a><br />
 <a href="https://ibb.co/x3hYbgL"><img src="https://i.ibb.co/Fn6X1Y3/vector-arm-wrestling-competition.jpg" alt="vector-arm-wrestling-competition" border="0"></a>
 */
