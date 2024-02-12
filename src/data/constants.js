@@ -236,6 +236,11 @@ export const projects = [
         linkedin: "https://www.linkedin.com/in/varun-gotmare-2b7952269/",
         github: "https://github.com/VarunGotmare",
       },
+      {
+        name: "Ayush Dongre 9158236375",
+        img: "https://i.ibb.co/W6ZGJTn/Whats-App-Image-2024-02-12-at-20-03-17-c1df76af.jpg",
+        
+      },
       
       
     ],
@@ -347,5 +352,6 @@ export const TimeLineData = [
 <a href="https://ibb.co/Vq3yDD7"><img src="https://i.ibb.co/ZMNsKKn/obstacle-race.png" alt="obstacle-race" border="0"></a>
 <a href="https://ibb.co/wSvh4xB"><img src="https://i.ibb.co/YcrBhqP/photography.png" alt="photography" border="0"></a>
 <a href="https://ibb.co/RNNJ76Z"><img src="https://i.ibb.co/Lrrsvgb/deovrat.jpg" alt="deovrat" border="0"></a>
+<a href="https://ibb.co/zrpQvks"><img src="https://i.ibb.co/W6ZGJTn/Whats-App-Image-2024-02-12-at-20-03-17-c1df76af.jpg" alt="ayush" border="0"></a>
 <a href="https://ibb.co/x3hYbgL"><img src="https://i.ibb.co/Fn6X1Y3/vector-arm-wrestling-competition.jpg" alt="vector-arm-wrestling-competition" border="0"></a>
 */
