@@ -325,7 +325,7 @@ export const projects = [
     price: "20/-",
     member: [
       {
-        name: "Siddhanth Sakhare:  86988 37265",
+        name: "Siddhanth Sakhare 8698837265",
         img: "https://media.licdn.com/dms/image/D5603AQFSzkziMj0iMg/profile-displayphoto-shrink_200_200/0/1706444922907?e=1712793600&v=beta&t=-fAAED-scch5tMk0zWYGfPSQ9EbVytL0CshHo9hXz4I",
         linkedin: "https://www.linkedin.com/in/siddhanth-kishor-sakhare-159653257/",
         
