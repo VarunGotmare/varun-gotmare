@@ -155,7 +155,7 @@ export const projects = [
   {
     id: 0,
     title: "Capture The Flag",
-    date: "15 Feb 2024",
+    date: "16 Feb 2024",
     description:
       "Unleash your hacking skills and conquer the challenges in our ultimate Capture The Flag event! Capture the flag is a cybersecurity competition that challenges teams to solve a variety of tasks ranging from a scavenger hunt on the internet, to basic programming exercises, to hacking your way into a server to steal data.",
     image:
@@ -220,7 +220,7 @@ export const projects = [
   {
     id: 2,
     title: "Lan Gaming",
-    date: "16 Feb 2024",
+    date: "17 Feb 2024",
     description:
       "Need for Speed? We Got What You Crave. Race your way to the top beating all other participants in this lan racing event! This event will be a Need For Speed : Most Wanted 2005 based lan gaming event, each player will be provided with a device connected to the lan.",
     image:
@@ -249,7 +249,7 @@ export const projects = [
   {
     id: 3,
     title: "Obstacle Race",
-    date: "15 Feb 2024",
+    date: "17 Feb 2024",
     description:
       "Leave your comfort zone, find your finish line.Participate in our ultimate Obstacle race event!",
     image:
