@@ -237,7 +237,7 @@ const Navbar = () => {
       <NavbarContainer>
         <NavLogo to='/'>
           <a style={{ display: "flex", alignItems: "center", color: "white", marginBottom: '20;', cursor: 'pointer' }}>
-            <Slogo/> <Span>Hackfusion</Span>
+          <Span>&#x276E;/&#x276F; Portfolio</Span>
           </a>
         </NavLogo>
         <MobileIcon>
@@ -247,11 +247,12 @@ const Navbar = () => {
         </MobileIcon>
         <NavItems>
           <NavLink href="#about">About</NavLink>
-          <NavLink href='#events'>Events</NavLink>
-          
+          <NavLink href='#skills'>Skills</NavLink>
+          <NavLink href='#projects'>Projects</NavLink>
+          <NavLink href='#education'>Education</NavLink>
         </NavItems>
         <ButtonContainer>
-          <GitHubButton href={Bio.insta} target="_blank">Instagram Handle</GitHubButton>
+          <GitHubButton href={Bio.insta} target="_blank">Github Profile</GitHubButton>
         </ButtonContainer>
         {
           isOpen &&
@@ -259,11 +260,16 @@ const Navbar = () => {
             <MobileLink href="#about" onClick={() => {
               setIsOpen(!isOpen)
             }}>About</MobileLink>
-            <MobileLink href='#events' onClick={() => {
+            <MobileLink href='#skills' onClick={() => {
               setIsOpen(!isOpen)
-            }}>Events</MobileLink>
-            
-            <GitHubButton style={{padding: '10px 16px',background: `${theme.primary}`, color: 'white',width: 'max-content'}} href={Bio.insta} target="_blank">Instagram Handle</GitHubButton>
+            }}>Skills</MobileLink>
+            <MobileLink href='#projects' onClick={() => {
+              setIsOpen(!isOpen)
+            }}>Projects</MobileLink>
+            <MobileLink href='#education' onClick={() => {
+              setIsOpen(!isOpen)
+            }}>Education</MobileLink>
+            <GitHubButton style={{padding: '10px 16px',background: `${theme.primary}`, color: 'white',width: 'max-content'}} href={Bio.github} target="_blank">Github Profile</GitHubButton>
           </MobileMenu>
         }
       </NavbarContainer>

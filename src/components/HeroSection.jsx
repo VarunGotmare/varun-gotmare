@@ -107,7 +107,7 @@ export const Img = styled.img`
   max-width: 400px;
   max-height: 400px;
   border-radius: 50%;
-  border: 0px solid ${({ theme }) => theme.primary};
+  border: 2px solid ${({ theme }) => theme.primary};
 
   @media (max-width: 768px) {
     max-width: 400px;
@@ -248,10 +248,10 @@ const HeroSection = () => {
                     <HeroBgAnimation />
                 </HeroBg>
                 <HeroInnerContainer >
-                    <HeroLeftContainer id="Left">
-                        <Title>Hackfusion 2.0</Title>
+                <HeroLeftContainer id="Left">
+                        <Title>Hi, I am <br /> {Bio.name}</Title>
                         <TextLoop>
-                            Organized by
+                            I am a
                             <Span>
                                 <Typewriter
                                     options={{
@@ -264,14 +264,12 @@ const HeroSection = () => {
                             </Span>
                         </TextLoop>
                         <SubTitle>{Bio.description}</SubTitle>
-                        
+                        {/* <ResumeButton href={Bio.resume} target='display'>Check Resume</ResumeButton> */}
                     </HeroLeftContainer>
 
                     <HeroRightContainer id="Right">
-                        {/* <Img src="https://cdn.discordapp.com/attachments/898444199249190972/1202594103875866674/1.png?ex=65ce0609&is=65bb9109&hm=d075f167eaee44d568af2c3979d9c88b3a49501aacaf2ea050461ac506332ba8&" alt="Hero Image" /> */}
-                        <Anime>
-                        <Lottie animationData={dev} style={{height: "100%",width: "100%"}}/>
-                        </Anime>
+                        <Img src="https://avatars.githubusercontent.com/u/64700310?s=400&u=d78fd95a812ddb72d9681bfb7820d98ec70235a8&v=4" alt="Hero Image" />
+                        
                        
                     </HeroRightContainer>
                 </HeroInnerContainer>

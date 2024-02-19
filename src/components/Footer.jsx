@@ -88,11 +88,12 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Cybetant Forum</Logo>
+        <Logo>Varun Gotmare</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
-          <NavLink href="#events">Events</NavLink>
-          
+          <NavLink href="#skills">Skills</NavLink>
+          <NavLink href="#projects">Projects</NavLink>
+          <NavLink href="#education">Education</NavLink>
         </Nav>
         <SocialMediaIcons>
           <SocialMediaIcon href={Bio.facebook} target="display"><FacebookIcon /></SocialMediaIcon>
@@ -101,7 +102,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          ᓚᘏᗢ Developed by <a href='https://github.com/VarunGotmare' className='text-purple-500 hover:text-purple-700'>Varun Gotmare</a>.
+           ᓚᘏᗢ Developed by Varun Gotmare.
         </Copyright>
 
       </FooterWrapper>

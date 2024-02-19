@@ -15,6 +15,8 @@ import Education from "./components/Education";
 import ProjectDetails from "./components/ProjectDetails";
 import styled from "styled-components";
 import Retard from './Retard';
+import Skills from './components/Skills';
+import Contact from './components/Contact';
 
 const Body = styled.div`
   background-color: ${({ theme }) => theme.bg};
@@ -38,21 +40,22 @@ const  App = () =>{
       <Router >
         <Navbar />
         <Body>
-          <Routes>
-            <Route path="/" element={<Wrapper>
-              <HeroSection />
-          <Wrapper>
-          </Wrapper>
+          <HeroSection />
+          {/* <Wrapper>
+            
+            <Experience />
+          </Wrapper> */}
+          <Skills />
           <Events openModal={openModal} setOpenModal={setOpenModal} />
+          <Wrapper>
           
-          
+            <Education />
+            <Contact />
+          </Wrapper>
+          <Footer />
           {openModal.state &&
             <ProjectDetails openModal={openModal} setOpenModal={setOpenModal} />
           }
-              </Wrapper>} />
-          <Route path="/retard" element={<Retard />} />
-          </Routes>
-          <Footer />
         </Body>
       </Router>
     </ThemeProvider>
