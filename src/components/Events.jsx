@@ -112,11 +112,11 @@ export const CardContainer = styled.div`
 const Events = ({openModal,setOpenModal}) => {
   const [toggle, setToggle] = useState('all');
   return (
-    <Container id="events">
+    <Container id="projects">
       <Wrapper>
-        <Title>Upcoming Events</Title>
+        <Title>Projects</Title>
         <Desc>
-          Here's a list of upcoming events, click on the cards to register or to know more about the event.
+          I have worked on a wide range of projects. From web apps to android apps. Here are some of my projects.
         </Desc>
         <ToggleButtonGroup >
           {toggle === 'all' ?
@@ -125,18 +125,23 @@ const Events = ({openModal,setOpenModal}) => {
             <ToggleButton value="all" onClick={() => setToggle('all')}>All</ToggleButton>
           }
           <Divider />
-          {toggle === 'tech events' ?
-            <ToggleButton active value="tech events" onClick={() => setToggle('tech events')}>TECH EVENTS</ToggleButton>
+          {toggle === 'web app' ?
+            <ToggleButton active value="web app" onClick={() => setToggle('web app')}>WEB APP'S</ToggleButton>
             :
-            <ToggleButton value="tech events" onClick={() => setToggle('tech events')}>TECH EVENTS</ToggleButton>
+            <ToggleButton value="web app" onClick={() => setToggle('web app')}>WEB APP'S</ToggleButton>
           }
           <Divider />
-          {toggle === 'fun events' ?
-            <ToggleButton active value="fun events" onClick={() => setToggle('fun events')}>FUN EVENTS</ToggleButton>
+          {toggle === 'android app' ?
+            <ToggleButton active value="android app" onClick={() => setToggle('android app')}>ANDROID APP'S</ToggleButton>
             :
-            <ToggleButton value="fun events" onClick={() => setToggle('fun events')}>FUN EVENTS</ToggleButton>
+            <ToggleButton value="android app" onClick={() => setToggle('android app')}>ANDROID APP'S</ToggleButton>
           }
-          
+          <Divider />
+          {toggle === 'bots' ?
+            <ToggleButton active value="bots" onClick={() => setToggle('bots')}>BOTS</ToggleButton>
+            :
+            <ToggleButton value="bots" onClick={() => setToggle('bots')}>BOTS</ToggleButton>
+          }
         </ToggleButtonGroup>
         <CardContainer>
           {toggle === 'all' && projects
@@ -144,7 +149,7 @@ const Events = ({openModal,setOpenModal}) => {
               <ProjectCard project={project} openModal={openModal} setOpenModal={setOpenModal}/>
             ))}
           {projects
-            .filter((item) => item.category === toggle)
+            .filter((item) => item.category == toggle)
             .map((project) => (
               <ProjectCard project={project} openModal={openModal} setOpenModal={setOpenModal}/>
             ))}
