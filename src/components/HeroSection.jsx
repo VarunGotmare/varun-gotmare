@@ -141,18 +141,9 @@ border: 0px solid ${({ theme }) => theme.primary};
 
 
 export const Title = styled.div`
-background-image: linear-gradient(
-    to top right ,
-    ${({ theme }) => theme.slate[800]},
-    ${({ theme }) => theme.violet[500]},
-    ${({ theme }) => theme.zinc[400]}
-  );
-  background-clip: text;
-  -webkit-background-clip: text;
-  color: transparent;
-  font-weight: 700;
+font-weight: 700;
   font-size: 50px;
-  
+  color: ${({ theme }) => theme.text_primary};
   line-height: 68px;
   @media (max-width: 960px) {
     text-align: center;
@@ -164,6 +155,27 @@ background-image: linear-gradient(
     margin-bottom: 8px;
   }
 `;
+export const Name = styled.span`
+
+  font-weight: 700;
+  font-size: 50px;
+  color: ${({ theme }) => theme.text_primary};
+  line-height: 68px;
+  background: linear-gradient(to left, #854CE6, #f492f0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+  @media (max-width: 960px) {
+    text-align: center;
+  }
+
+  @media (max-width: 640px) {
+    font-size: 40px;
+    line-height: 48px;
+    margin-bottom: 8px;
+  }
+`;
+
 
 export const TextLoop = styled.div`
   font-weight: 600;
@@ -249,7 +261,7 @@ const HeroSection = () => {
                 </HeroBg>
                 <HeroInnerContainer >
                 <HeroLeftContainer id="Left">
-                        <Title>Hi, I am <br /> {Bio.name}</Title>
+                        <Title>Hi, I am <br /> <Name>{Bio.name}</Name></Title>
                         <TextLoop>
                             I am a
                             <Span>
@@ -258,6 +270,8 @@ const HeroSection = () => {
                                         strings: Bio.roles,
                                         autoStart: true,
                                         loop: true,
+                                        delay: 50,
+                                        deleteSpeed: 50,
                                         
                                     }}
                                 />
