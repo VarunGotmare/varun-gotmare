@@ -20,3 +20,7 @@ body {
     }
   }
 }
+
+.open-sans {
+  font-family: var(--font-open-sans);
+}

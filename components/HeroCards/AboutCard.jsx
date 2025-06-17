@@ -3,6 +3,7 @@
 import Image from 'next/image';
 import { FaInstagram, FaGithub, FaLinkedin, FaSpotify } from 'react-icons/fa';
 
+
 export default function AboutCard() {
   return (
     <div className="flex flex-col items-start justify-between text-left w-full h-full">
@@ -18,8 +19,8 @@ export default function AboutCard() {
         </div>
 
         <div>
-          <h2 className="text-4xl font-semibold mb-2">Hi, I'm Varun Gotmare</h2>
-          <p className="text-sm leading-relaxed">
+          <h2 className="text-4xl font-semibold mb-2 ">Hi, I'm <br></br><span className='italic text-rose-500'>Varun Gotmare</span></h2>
+          <p className='text-sm leading-relaxed '>
             Creative and driven Computer Science student with a passion for building intuitive web experiences and leading impactful tech initiatives.
           </p>
         </div>

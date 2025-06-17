@@ -5,6 +5,7 @@ import { useEffect, useState } from 'react';
 import clsx from 'clsx';
 import AboutCard from './HeroCards/AboutCard';
 import ExpertAreasCard from './HeroCards/ExpertCard';
+import ExperienceTimelineCard from './HeroCards/ExperienceCard';
 
 export default function HeroGrid() {
   const { resolvedTheme } = useTheme();
@@ -36,11 +37,11 @@ export default function HeroGrid() {
       </div>
 
       <div className={clsx(glassBox, 'col-span-1 row-span-2')}>
-        <h2 className="text-xl font-bold">Projects</h2>
+        <h2 className="text-xl font-bold">GitHub Contributions</h2>
       </div>
 
       <div className={clsx(glassBox, 'col-span-1')}>
-        <h2 className="text-xl font-bold">Mini Projects</h2>
+        <ExperienceTimelineCard />
       </div>
 
       <div className={clsx(glassBox, 'col-span-2')}>
