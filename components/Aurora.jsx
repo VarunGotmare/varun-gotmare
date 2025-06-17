@@ -183,13 +183,18 @@ export default function Aurora(props) {
             program.uniforms.uTime.value = time * speed * 0.1;
             program.uniforms.uAmplitude.value = propsRef.current.amplitude ?? 1.0;
             program.uniforms.uBlend.value = propsRef.current.blend ?? blend;
+
+            // Update theme and colors
+            program.uniforms.uIsDarkTheme.value = propsRef.current.isDarkTheme;
             const stops = propsRef.current.colorStops ?? colorStops;
             program.uniforms.uColorStops.value = stops.map((hex) => {
                 const c = new Color(hex);
                 return [c.r, c.g, c.b];
             });
+
             renderer.render({ scene: mesh });
         };
+
         animateId = requestAnimationFrame(update);
 
         resize();
