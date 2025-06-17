@@ -11,7 +11,7 @@ export default function AboutCard() {
       <div className="flex flex-col items-start gap-3 w-full">
         <div className="w-full max-w-[366px] aspect-[4/5] relative rounded-xl overflow-hidden border border-white/30 shadow-lg">
           <Image
-            src="/photos/profile.jpg"
+            src="/photos/profile.png"
             alt="Profile"
             fill
             className="object-cover"
