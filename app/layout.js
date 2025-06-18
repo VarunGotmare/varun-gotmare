@@ -38,7 +38,7 @@ export default function RootLayout({ children }) {
         >
           <div className="relative min-h-screen">
             {/* 🌓 Theme toggle in top-right */}
-            <div className="absolute top-4 right-4 z-50 mt-2 mr-1 ml-1">
+            <div className="absolute top-4 right-4 z-50  mr-1 ml-1">
               <ModeToggle />
             </div>
 
