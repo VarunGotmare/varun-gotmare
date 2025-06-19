@@ -20,7 +20,7 @@ export default function ProfileCard() {
       whileHover={{ rotateX: 5, rotateY: -5, scale: 1.03 }}
       transition={{ type: 'spring', stiffness: 200, damping: 15 }}
     >
-      <div className="rounded-2xl bg-white dark:bg-neutral-950 w-full h-full px-4 pt-4 pb-6 text-center relative z-10 min-h-[380px]">
+      <div className="rounded-2xl bg-white dark:bg-neutral-950 w-full h-full px-4 pt-4 pb-6 text-center relative z-10 min-h-[300px]">
         {/* 🔲 Rectangular Image */}
         <div className="w-full aspect-[4/5] relative rounded-xl overflow-hidden border-2 border-white dark:border-neutral-800 shadow-lg mb-4">
           <Image
