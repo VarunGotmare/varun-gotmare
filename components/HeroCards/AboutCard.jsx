@@ -51,16 +51,16 @@ export default function AboutCard() {
 
       {/* Social Links */}
       <div className="flex items-center gap-6 mt-6 w-full">
-        <a href="https://instagram.com/yourprofile" target="_blank" rel="noopener noreferrer">
+        <a href="https://instagram.com/kahahaivarun" target="_blank" rel="noopener noreferrer">
           <FaInstagram size={30} className="hover:scale-110 transition" />
         </a>
-        <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/VarunGotmare" target="_blank" rel="noopener noreferrer">
           <FaGithub size={30} className="hover:scale-110 transition" />
         </a>
-        <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer">
+        <a href="https://linkedin.com/in/varun-gotmare" target="_blank" rel="noopener noreferrer">
           <FaLinkedin size={30} className="hover:scale-110 transition" />
         </a>
-        <a href="https://spotify.com/yourprofile" target="_blank" rel="noopener noreferrer">
+        <a href="https://open.spotify.com/user/2v2opc0rbxviyy1bo1o9qo0zw?si=6c6c5a11a56f40b8" target="_blank" rel="noopener noreferrer">
           <FaSpotify size={30} className="hover:scale-110 transition" />
         </a>
       </div>

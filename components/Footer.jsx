@@ -24,24 +24,24 @@ export default function Footer() {
               <FaGithub className="text-xl" /> @VarunGotmare
             </Link>
             <Link
-              href="https://linkedin.com/in/varungotmare"
+              href="https://www.linkedin.com/in/varun-gotmare/"
               className="hover:underline flex gap-2 items-center"
               target="_blank"
             >
-              <FaLinkedin className="text-xl" /> @varungotmare
+              <FaLinkedin className="text-xl" /> @varun-gotmare
             </Link>
             <Link
-              href="https://instagram.com/yourusername"
+              href="https://instagram.com/kahahaivarun"
               className="hover:underline flex gap-2 items-center"
               target="_blank"
             >
-              <FaInstagram className="text-xl" /> @yourusername
+              <FaInstagram className="text-xl" /> @kahahaivarun
             </Link>
             <Link
-              href="mailto:varun@example.com"
+              href="mailto:varunpgotmare@gmail.com"
               className="hover:underline flex gap-2 items-center"
             >
-              <FaEnvelope className="text-xl" /> varun@example.com
+              <FaEnvelope className="text-xl" /> varunpgotmare@gmail.com
             </Link>
           </div>
         </div>
