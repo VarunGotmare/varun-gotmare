@@ -20,7 +20,7 @@ export const victorMono = Victor_Mono({
 });
 
 export const metadata = {
-  title: "My Portfolio",
+  title: "Varun Gotmare",
   description: "Welcome to my portfolio site",
 };
 
